@@ -1,0 +1,4 @@
+numpy>=1.18.5
+torch>=1.7.0
+opencv-python>=4.5.4.60
+cvzone>=1.5.6
